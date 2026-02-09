@@ -152,13 +152,4 @@ Determines whether a neuron should activate and pass information to the next lay
 
 ---
 
-## Next Steps
-
-- [ ] Implement training loop with different optimizers
-- [ ] Compare MSE vs MAE on regression tasks
-- [ ] Experiment with learning rates
-- [ ] Build multi-class classification model with MNIST
-
----
-
 *Notes compiled from: February 2026*
