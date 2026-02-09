@@ -163,20 +163,4 @@
 
 ---
 
-## Next Steps
-
-- [ ] Explore different ML algorithms (Linear Regression, Decision Trees)
-- [ ] Understand neural network basics
-- [ ] Learn about different deep learning architectures
-- [ ] Practice with datasets (MNIST, CIFAR-10)
-
-## Resources
-
-- Andrew Ng's Machine Learning Course (Coursera)
-- Deep Learning Specialization by Andrew Ng
-- "Hands-On Machine Learning" by Aurélien Géron
-- Fast.ai courses
-
----
-
 *Notes compiled from: February 2026*
