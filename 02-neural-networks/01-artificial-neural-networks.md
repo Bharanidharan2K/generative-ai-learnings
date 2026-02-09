@@ -127,19 +127,6 @@ Where:
 - **bias**: Learned offset
 - **activation**: Non-linear function
 
-## Next Steps
-
-- [ ] Implement a simple ANN from scratch
-- [ ] Explore different activation functions
-- [ ] Study backpropagation in detail
-- [ ] Build a project: Handwritten digit recognition
-
-## Resources
-
-- Neural Networks and Deep Learning by Michael Nielsen
-- Deep Learning Specialization - Andrew Ng
-- PyTorch/TensorFlow official tutorials
-
 ---
 
 *Notes compiled from: February 2026*
