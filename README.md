@@ -16,6 +16,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 ```
 ├── 01-fundamentals/          # AI, ML, DL basics
 ├── 02-neural-networks/       # ANNs, CNNs, RNNs, Transformers
+│   └── training-concepts/    # Training, Overfitting, Normalization
 ├── 03-generative-models/     # GANs, VAEs, Diffusion Models
 ├── 04-large-language-models/ # LLMs, Fine-tuning, Prompt Engineering
 ├── 05-implementations/       # Code examples and projects
@@ -30,6 +31,13 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [ ] Activation Functions
 - [ ] Loss Functions
 - [ ] Optimization Algorithms
+
+### Neural Network Training
+- [x] Overfitting and Underfitting
+- [x] Normalization Techniques (Min-Max, Z-Score)
+- [ ] Regularization Methods
+- [ ] Batch Normalization
+- [ ] Learning Rate Scheduling
 
 ### Neural Network Architectures
 - [ ] Convolutional Neural Networks (CNNs)
@@ -48,6 +56,14 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [ ] Prompt Engineering
 - [ ] Retrieval-Augmented Generation (RAG)
 - [ ] Model Deployment
+
+## 📝 Recent Updates
+
+### February 14, 2026
+- ✨ Added comprehensive guide on [Neural Network Training Concepts](./02-neural-networks/training-concepts/nn-training-guide.md)
+  - Overfitting vs. Underfitting with real-world examples
+  - Normalization techniques (Min-Max and Z-Score)
+  - Why normalization matters for model performance
 
 ## 🎯 Learning Goals
 
@@ -90,5 +106,5 @@ MIT License - Feel free to use this content for your own learning!
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: February 14, 2026*  
 *Status: Actively Learning 🌱*
