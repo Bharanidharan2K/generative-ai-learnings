@@ -11,6 +11,14 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - Research papers and insights
 - Hands-on projects
 
+## Repository Structure
+```
+├── 01-fundamentals/               # AI, ML, DL basics
+├── 02-neural-networks/            # ANNs, RNNs, Transformers, Training
+│   └── training-concepts/         # Overfitting, Normalization, etc.
+├── 03-convolution-neural-network/ # CNN Architecture & Implementation
+```
+
 ## Learning Path & Progress
 
 ### 01. Fundamentals
@@ -18,22 +26,43 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [x] Machine Learning (ML) Basics
 - [x] Deep Learning (DL) Introduction
 
-### 02. Neural Networks
-- [x] **Neural Network Training Guide**
-    - [x] Activation Functions
-    - [x] Loss Functions & Optimizers
-    - [x] Forward & Backward Propagation
-- [x] **Convolutional Neural Networks (CNN)**
-    - [x] Convolution & Pooling Layers
-    - [x] Parameter Efficiency (ANN vs CNN)
-- [ ] **Recurrent Neural Networks (RNN)**
-- [ ] **Transformers**
+### Neural Network Training
+- [x] Overfitting and Underfitting
+- [x] Normalization Techniques (Min-Max, Z-Score)
+- [ ] Regularization Methods
+- [ ] Batch Normalization
+- [ ] Learning Rate Scheduling
 
-## Repository Structure
+### Neural Network Architectures
+- [x] Artificial Neural Networks (ANN)
+- [x] Convolutional Neural Networks (CNN)
+  - [x] Convolution & Pooling Layers
+  - [x] Parameter Efficiency (ANN vs CNN)
+- [ ] Recurrent Neural Networks (RNN)
+- [ ] Transformers
 
-```
-├── 01-fundamentals/
-└── 02-neural-network/
-    ├── training-concepts/
-    └── cnn.md
-```
+## Recent Updates
+
+### February 20, 2026
+- ✨ Added comprehensive guide on [Convolutional Neural Networks (CNN)](./03-convolution-neural-network/cnn.md)
+  - Core concepts: Convolution, Pooling, Flattening
+  - Parameter efficiency comparison: ANN vs CNN
+- 🛠️ Organized repository structure for better navigation
+
+### February 14, 2026
+- ✨ Added guide on [Neural Network Training Concepts](./02-neural-networks/training-concepts/nn-training-guide.md)
+  - Overfitting vs. Underfitting with real-world examples
+  - Normalization techniques (Min-Max and Z-Score)
+
+## Learning Goals
+1. Build strong foundations in AI/ML/DL concepts
+2. Implement state-of-the-art Generative AI models
+3. Contribute to the open-source AI community
+4. Share knowledge through clear and concise documentation
+
+## License
+MIT License - Feel free to use this content for your own learning!
+
+---
+*Last Updated: February 20, 2026*
+*Status: Actively Learning 🌱*
