@@ -11,6 +11,24 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - Research papers and insights
 - Hands-on projects
 
+## Learning Path & Progress
+
+### 01. Fundamentals
+- [x] Artificial Intelligence (AI) Overview
+- [x] Machine Learning (ML) Basics
+- [x] Deep Learning (DL) Introduction
+
+### 02. Neural Networks
+- [x] **Neural Network Training Guide**
+    - [x] Activation Functions
+    - [x] Loss Functions & Optimizers
+    - [x] Forward & Backward Propagation
+- [x] **Convolutional Neural Networks (CNN)**
+    - [x] Convolution & Pooling Layers
+    - [x] Parameter Efficiency (ANN vs CNN)
+- [ ] **Recurrent Neural Networks (RNN)**
+- [ ] **Transformers**
+
 ## Repository Structure
 
 ```
