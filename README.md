@@ -54,15 +54,6 @@ As a software engineer passionate about emerging technologies, I'm documenting m
   - Overfitting vs. Underfitting with real-world examples
   - Normalization techniques (Min-Max and Z-Score)
 
-## Learning Goals
-1. Build strong foundations in AI/ML/DL concepts
-2. Implement state-of-the-art Generative AI models
-3. Contribute to the open-source AI community
-4. Share knowledge through clear and concise documentation
-
-## License
-MIT License - Feel free to use this content for your own learning!
-
 ---
 *Last Updated: February 20, 2026*
 *Status: Actively Learning 🌱*
