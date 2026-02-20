@@ -1,8 +1,8 @@
-# 🚀 Generative AI Learnings
+# Generative AI Learnings
 
 A comprehensive repository documenting my journey into Generative AI, Machine Learning, and Deep Learning. This repo serves as a knowledge base where I share concepts, implementations, and insights as I explore the fascinating world of AI.
 
-## 📚 About This Repository
+## About This Repository
 
 As a software engineer passionate about emerging technologies, I'm documenting my learning path through:
 - Core ML/DL concepts
@@ -11,7 +11,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - Research papers and insights
 - Hands-on projects
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 ├── 01-fundamentals/          # AI, ML, DL basics
@@ -24,7 +24,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 └── resources/                # Helpful links, books, courses
 ```
 
-## 📖 Topics Covered
+## Topics Covered
 
 ### Fundamentals
 - [x] Artificial Neural Networks (ANNs)
@@ -57,15 +57,15 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [ ] Retrieval-Augmented Generation (RAG)
 - [ ] Model Deployment
 
-## 📝 Recent Updates
+## Recent Updates
 
-### February 14, 2026
-- ✨ Added comprehensive guide on [Neural Network Training Concepts](./02-neural-networks/training-concepts/nn-training-guide.md)
+### February 20, 2026
+- Added comprehensive guide on [Neural Network Training Concepts](./02-neural-networks/training-concepts/nn-training-guide.md)
   - Overfitting vs. Underfitting with real-world examples
   - Normalization techniques (Min-Max and Z-Score)
   - Why normalization matters for model performance
 
-## 🎯 Learning Goals
+## Learning Goals
 
 1. Build strong foundations in AI/ML/DL concepts
 2. Understand generative model architectures
@@ -73,14 +73,14 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 4. Work with modern frameworks (PyTorch, TensorFlow, Hugging Face)
 5. Deploy AI applications
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: Python
 - **Frameworks**: PyTorch, TensorFlow, Keras
 - **Tools**: Jupyter Notebooks, Google Colab
 - **Libraries**: NumPy, Pandas, Scikit-learn, Hugging Face Transformers
 
-## 📝 How to Use This Repository
+## How to Use This Repository
 
 Each topic folder contains:
 - **README.md**: Overview and key concepts
@@ -88,23 +88,23 @@ Each topic folder contains:
 - **code/**: Implementation examples
 - **resources.md**: References and further reading
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal learning repository, but suggestions and discussions are welcome! Feel free to:
 - Open issues for corrections or suggestions
 - Share additional resources
 - Discuss concepts in the Discussions tab
 
-## 📬 Connect
+## Connect
 
 - **GitHub**: [@Bharanidharan2K](https://github.com/Bharanidharan2K)
 - **Location**: Tamil Nadu, India
 
-## 📄 License
+## License
 
 MIT License - Feel free to use this content for your own learning!
 
 ---
 
-*Last Updated: February 14, 2026*  
-*Status: Actively Learning 🌱*
+*Last Updated: February 20, 2026*
+*Status: Actively Learning*
