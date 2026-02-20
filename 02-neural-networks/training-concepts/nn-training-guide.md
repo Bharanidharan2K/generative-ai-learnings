@@ -39,7 +39,7 @@ Underfitting happens when a neural network doesn't receive enough information du
 ### Example: Human Classification
 Consider training a model to classify humans vs. animals:
 - **Training data**: Defined humans as having a nose, two ears, two eyes, and hair
-- **Problem**: If a person wears sunglasses (coolers), the model fails to recognize them as human
+- **Problem**: If a person wears sunglasses, the model fails to recognize them as human
 - **Root cause**: Insufficient training data and oversimplified feature definitions prevent proper generalization
 
 ---
@@ -64,9 +64,9 @@ Consider predicting house prices based on:
 Scales data to a fixed range, typically [0, 1] or [-1, 1].
 
 **Formula**:
-\[
+$$
 x_{normalized} = \frac{x - x_{min}}{x_{max} - x_{min}}
-\]
+$$
 
 **Use case**: When you need data within a specific bounded range.
 
@@ -76,13 +76,13 @@ x_{normalized} = \frac{x - x_{min}}{x_{max} - x_{min}}
 Transforms data to have a mean of 0 and standard deviation of 1.
 
 **Formula**:
-\[
+$$
 x_{standardized} = \frac{x - \mu}{\sigma}
-\]
+$$
 
 Where:
-- \(\mu\) = mean of the data
-- \(\sigma\) = standard deviation
+- $\mu$ = mean of the data
+- $\sigma$ = standard deviation
 
 **Use case**: Works best when dealing with outliers.
 
@@ -121,5 +121,5 @@ By understanding and implementing these concepts, you can build more robust and 
 
 ---
 
-**Document prepared for**: Generative AI Learning Repository  
-**Last Updated**: February 14, 2026
+**Document prepared for**: Generative AI Learning Repository
+**Last Updated**: February 20, 2026
