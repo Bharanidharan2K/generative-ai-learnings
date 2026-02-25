@@ -38,7 +38,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [x] Convolutional Neural Networks (CNN)
   - [x] Convolution & Pooling Layers
   - [x] Parameter Efficiency (ANN vs CNN)
-- [ ] Recurrent Neural Networks (RNN)
+- [x] Recurrent Neural Networks (RNN)
 - [ ] Transformers
 
 ## Recent Updates
