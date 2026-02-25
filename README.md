@@ -17,6 +17,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 ├── 02-neural-networks/            # ANNs, RNNs, Transformers, Training
 │   └── training-concepts/         # Overfitting, Normalization, etc.
 ├── 03-convolution-neural-network/ # CNN Architecture & Implementation
+├── 04-recurrent-neural-network/   # RNN Architecture & Implementation
 ```
 
 ## Learning Path & Progress
