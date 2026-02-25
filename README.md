@@ -43,7 +43,14 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 
 ## Recent Updates
 
-### February 20, 2026
+### February 25, 2026
+
+- ✨ Added comprehensive guide on [Recurrent Neural Networks (RNN)](./04-recurrent-neural-network/rnn.md)
+-   - RNN intuition and sequential data understanding
+    -   - Key concepts: Hidden State and Time Step
+        -   - Pictorial diagrams: Unrolled RNN, Single Cell, Feedforward vs RNN
+         
+            ### February 20, 2026
 - ✨ Added comprehensive guide on [Convolutional Neural Networks (CNN)](./03-convolution-neural-network/cnn.md)
   - Core concepts: Convolution, Pooling, Flattening
   - Parameter efficiency comparison: ANN vs CNN
