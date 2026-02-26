@@ -18,6 +18,7 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 │   └── training-concepts/         # Overfitting, Normalization, etc.
 ├── 03-convolution-neural-network/ # CNN Architecture & Implementation
 ├── 04-recurrent-neural-network/   # RNN Architecture & Implementation
+├── 05-langchain/                  # LangChain Framework & Examples
 ```
 
 ## Learning Path & Progress
@@ -42,13 +43,27 @@ As a software engineer passionate about emerging technologies, I'm documenting m
 - [x] Recurrent Neural Networks (RNN)
 - [ ] Transformers
 
+### LangChain Framework
+- [x] LangChain Fundamentals
+  - [x] Chat Models & Message Structure
+  - [x] Prompt Templates
+  - [x] Chaining & Output Parsers
+  - [x] Multi-model Integration
+- [ ] LangGraph
+
 ## Recent Updates
+
+### February 26, 2026
+- ✨ Added comprehensive guide on [LangChain Framework](./05-langchain/get-started-with-langchain.md)
+  - Core concepts: Chat Models, Messages, Prompts
+  - Practical examples: Chaining, Output Parsing, Multi-model workflows
+  - Hands-on code with Groq integration
 
 ### February 25, 2026
 - ✨ Added comprehensive guide on [Recurrent Neural Networks (RNN)](./04-recurrent-neural-network/rnn.md)
--   - RNN intuition and sequential data understanding
-    - Key concepts: Hidden State and Time Step
-- Pictorial diagrams: Unrolled RNN, Single Cell, Feedforward vs RNN
+  - RNN intuition and sequential data understanding
+  - Key concepts: Hidden State and Time Step
+  - Pictorial diagrams: Unrolled RNN, Single Cell, Feedforward vs RNN
          
 ### February 20, 2026
 - ✨ Added comprehensive guide on [Convolutional Neural Networks (CNN)](./03-convolution-neural-network/cnn.md)
@@ -62,5 +77,5 @@ As a software engineer passionate about emerging technologies, I'm documenting m
   - Normalization techniques (Min-Max and Z-Score)
 
 ---
-*Last Updated: February 20, 2026*
+*Last Updated: February 26, 2026*
 *Status: Actively Learning 🌱*
